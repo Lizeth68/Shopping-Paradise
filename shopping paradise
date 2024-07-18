@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Shopping Paradise</h1>
+<p>Welcome to Shopping Paradise.A place that brings happiness when shopping</p>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="Product Overview.html">Product Overview</a></li>
+      <li><a href="About Shopping Paradise.html">About</a></li>
+    </ul>
+  </nav>
+
+</body>
+</html>
+<img src="pink mini dress.png" alt="pink dress">
+<img src="white crop top.png" alt="white crop top">
+<img src="White flowy dress.jpg" alt="White flowy dress">
+<img src="white mini dress.jpg" alt="white mini dress">
+<img src="zip up crop top.png" alt="zip up crop top">
+
